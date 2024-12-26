@@ -25,6 +25,9 @@ This report covers the entire process, from **dataset preparation and cleaning**
 
 ### 2. **Dataset Overview**
 
+<img width="960" alt="Coffeeraw" src="https://github.com/user-attachments/assets/8e2f0cf6-4482-4311-a4f8-8c72c9ce3ad7" />
+
+
 The dataset includes the following key attributes:
 - **Order Date**: Order ID, Order date, Quantity ordered.
 - **Product Information**: Product ID, Type of coffee, roast type, and package size.
@@ -34,6 +37,9 @@ The dataset includes the following key attributes:
 ---
 
 ### 3. **Data Cleaning Process**
+
+<img width="958" alt="Coffeeclean" src="https://github.com/user-attachments/assets/41761da9-fc14-45db-882c-ae4450bc3ddf" />
+
 
 Before conducting the analysis, it was crucial to clean and prepare the dataset. Here are the key steps involved in the data-cleaning process:
 
