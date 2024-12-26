@@ -92,7 +92,7 @@ Various visualizations were created using Excel to extract valuable insights fro
    - **Key Insight**: The **United States and United Kingdom** dominated the sales, while **Ireland** contributed a smaller share. This information can guide localized marketing strategies to boost sales in underperforming regions.
 
 #### f. **Top Purchasing Customers**
-   - A table highlighting the top 5 customers based on total sales value.
+   - A bar chart highlighting the top 5 customers based on total sales value.
    - **Key Insight**: A small percentage of customers contribute significantly to overall revenue, indicating that personalized marketing and exclusive offers could help retain and grow this high-value customer segment.
 
 ---
